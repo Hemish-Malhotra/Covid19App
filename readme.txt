@@ -1,0 +1,2 @@
+This application is a web based vaccination booking system made using HTML, CSS and Javascript. This can be opened on any web based browser such as firefox, chrome, safari etc. 
+It allows you to book your 1st and 2nd dose, cancel an appointment and even reschedule one.
